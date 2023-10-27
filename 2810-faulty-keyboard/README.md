@@ -7,7 +7,7 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> s = "string"
+<pre style="position: relative;"><strong>Input:</strong> s = "string"
 <strong>Output:</strong> "rtsng"
 <strong>Explanation:</strong> 
 After typing first character, the text on the screen is "s".
@@ -17,11 +17,11 @@ Since the fourth character is an 'i', the text gets reversed and becomes "rts".
 After the fifth character, the text is "rtsn". 
 After the sixth character, the text is "rtsng". 
 Therefore, we return "rtsng".
-</pre>
+<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre><strong>Input:</strong> s = "poiinter"
+<pre style="position: relative;"><strong>Input:</strong> s = "poiinter"
 <strong>Output:</strong> "ponter"
 <strong>Explanation:</strong> 
 After the first character, the text on the screen is "p".
@@ -32,7 +32,7 @@ After the fifth character, the text is "pon".
 After the sixth character, the text is "pont". 
 After the seventh character, the text is "ponte". 
 After the eighth character, the text is "ponter". 
-Therefore, we return "ponter".</pre>
+Therefore, we return "ponter".<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
