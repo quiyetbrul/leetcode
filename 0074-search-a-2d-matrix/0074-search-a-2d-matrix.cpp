@@ -7,6 +7,9 @@ public:
         // else
             // iterate through each column in the same row (right to left)
         
+        // OPTIONAL
+            // can check target > row[i]col[length-1] && target < row[i+1]col[0] to return false faster
+        
         
         int rows = matrix.size(),
 			cols = matrix[0].size(),
