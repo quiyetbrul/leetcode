@@ -2,11 +2,10 @@ class Solution {
 public:
     int countOnes(const string& str) {
         int ones = 0;
-        for (char c : str) {
-            if (c == '1') {
+        for (char c : str)
+            if (c == '1')
                 ones++;
-            }
-        }
+
         return ones;
     }
 
