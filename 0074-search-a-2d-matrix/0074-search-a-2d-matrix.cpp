@@ -28,7 +28,37 @@
 //     }
 // };
 
-// USING BINARY SEARCH
+// // USING BINARY SEARCH
+
+// class Solution {
+// public:
+//     bool searchMatrix(vector<vector<int>>& matrix, int target) {
+//         int rows = matrix.size();
+//         int cols = matrix[0].size();
+        
+//         if (rows == 0 || cols == 0) return false;
+        
+//         for (int i = 0; i < rows; ++i) {
+//             // Apply binary search within each row
+//             int left = 0, right = cols - 1;
+            
+//             while (left <= right) {
+//                 int mid = left + (right - left) / 2;
+                
+//                 if (matrix[i][mid] == target)
+//                     return true;
+//                 else if (matrix[i][mid] < target)
+//                     left = mid + 1;
+//                 else
+//                     right = mid - 1;
+//             }
+//         }
+        
+//         return false;
+//     }
+// };
+
+// FLATTENED 2D ARRAY
 
 class Solution {
 public:
@@ -38,20 +68,19 @@ public:
         
         if (rows == 0 || cols == 0) return false;
         
-        for (int i = 0; i < rows; ++i) {
-            // Apply binary search within each row
-            int left = 0, right = cols - 1;
+        int left = 0;
+        int right = rows * cols - 1; // Treat the matrix as a flattened array
+        
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
+            int midElement = matrix[mid / cols][mid % cols]; // Convert index to 2D matrix coordinates
             
-            while (left <= right) {
-                int mid = left + (right - left) / 2;
-                
-                if (matrix[i][mid] == target)
-                    return true;
-                else if (matrix[i][mid] < target)
-                    left = mid + 1;
-                else
-                    right = mid - 1;
-            }
+            if (midElement == target)
+                return true;
+            else if (midElement < target)
+                left = mid + 1;
+            else
+                right = mid - 1;
         }
         
         return false;
