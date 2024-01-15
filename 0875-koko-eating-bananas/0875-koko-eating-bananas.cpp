@@ -8,9 +8,8 @@ public:
         
         while (left < right) {
             int mid = left + (right - left) / 2;
-            int hours = findHours(piles, mid);
 
-            if (hours > h) left = mid + 1;
+            if (findHours(piles, mid) > h) left = mid + 1;
             else right = mid;
         }
         return left;
