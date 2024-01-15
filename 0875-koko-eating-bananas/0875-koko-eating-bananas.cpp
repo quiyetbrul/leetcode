@@ -6,21 +6,21 @@ public:
         int left = 1;
         int right = piles.back();
         
-        while(left <= right){
+        while (left < right) {
             int mid = left + (right - left) / 2;
-            double hours = findHours(piles, mid);
-            
+            int hours = findHours(piles, mid);
+
             if (hours > h) left = mid + 1;
-            else right = mid - 1;
-            
+            else right = mid;
         }
         return left;
     }
     
-    double findHours(const std::vector<int>& piles, int mid){
-        double total = 0;
-        for(const int& pile : piles)
-            total += std::ceil(static_cast<double>(pile) / mid);
+    int findHours(const std::vector<int>& piles, int mid) {
+        int total = 0;
+        for (int pile : piles)
+            total += (pile + mid - 1) / mid;
         return total;
     }
+
 };
