@@ -21,7 +21,6 @@ func maxProfit(prices []int) int {
         }else{
             // since price[right] has lower selling price,
             // update left pointer to have right pointer index value
-            //
             left = right
         }
         // keep moving right pointer
