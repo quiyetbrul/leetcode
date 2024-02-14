@@ -11,13 +11,13 @@ public:
     // }
     
     bool containsNearbyDuplicate(std::vector<int>& nums, int k) {
-        std::unordered_set<int> window;
+        std::unordered_set<int> m;
         for (int i = 0; i < nums.size(); ++i) {
-            if (i > k) // If window size exceeds 'k', remove the oldest element from the window
-                window.erase(nums[i - k - 1]);
-            if (window.find(nums[i]) != window.end()) // Check if the current element already exists in the window
+            if (i > k) // If m size exceeds 'k', remove the oldest element from the m
+                m.erase(nums[i - k - 1]);
+            if (m.find(nums[i]) != m.end()) // Check if the current element already exists in the m
                 return true;
-            window.insert(nums[i]); // Add the current element to the window
+            m.insert(nums[i]); // Add the current element to the m
         }
         return false;
     }
