@@ -1,5 +1,5 @@
 // time o(n), space o(1)
-func maxProfitS(prices []int) int {
+func maxProfit(prices []int) int {
     maxprofit := 0
     
     // simplified
@@ -27,7 +27,7 @@ func min(a,b int) int{
 }
 
 
-func maxProfit(prices []int) int {
+func maxProfitSW(prices []int) int {
     ////  init left, right, maxprofit, slice length
     left := 0
     right := 1
