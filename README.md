@@ -5,19 +5,23 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/quiyetbrul/leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/quiyetbrul/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/quiyetbrul/leetcode/tree/master/0347-top-k-frequent-elements) |
 # Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/quiyetbrul/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/quiyetbrul/leetcode/tree/master/0347-top-k-frequent-elements) |
 # Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/quiyetbrul/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/quiyetbrul/leetcode/tree/master/0347-top-k-frequent-elements) |
 # Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/quiyetbrul/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/quiyetbrul/leetcode/tree/master/0347-top-k-frequent-elements) |
 # Heap (Priority Queue)
 |  |
@@ -30,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/quiyetbrul/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/quiyetbrul/leetcode/tree/master/0347-top-k-frequent-elements) |
 # Quickselect
 |  |
