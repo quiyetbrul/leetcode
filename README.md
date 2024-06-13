@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/quiyetbrul/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/quiyetbrul/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1285-balance-a-binary-search-tree](https://github.com/quiyetbrul/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 # Sorting
 |  |
 | ------- |
@@ -44,3 +45,23 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/quiyetbrul/leetcode/tree/master/0238-product-of-array-except-self) |
+# Greedy
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/quiyetbrul/leetcode/tree/master/1285-balance-a-binary-search-tree) |
+# Tree
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/quiyetbrul/leetcode/tree/master/1285-balance-a-binary-search-tree) |
+# Depth-First Search
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/quiyetbrul/leetcode/tree/master/1285-balance-a-binary-search-tree) |
+# Binary Search Tree
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/quiyetbrul/leetcode/tree/master/1285-balance-a-binary-search-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/quiyetbrul/leetcode/tree/master/1285-balance-a-binary-search-tree) |
