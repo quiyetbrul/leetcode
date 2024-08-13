@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/quiyetbrul/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1013-fibonacci-number](https://github.com/quiyetbrul/leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -83,4 +84,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/quiyetbrul/leetcode/tree/master/1013-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/quiyetbrul/leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/quiyetbrul/leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
