@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/quiyetbrul/leetcode/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/quiyetbrul/leetcode/tree/master/0217-contains-duplicate) |
 | [0300-longest-increasing-subsequence](https://github.com/quiyetbrul/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/quiyetbrul/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/quiyetbrul/leetcode/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/quiyetbrul/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,15 +110,33 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/quiyetbrul/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/quiyetbrul/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/quiyetbrul/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/quiyetbrul/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/quiyetbrul/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/quiyetbrul/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/quiyetbrul/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/quiyetbrul/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/quiyetbrul/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/quiyetbrul/leetcode/tree/master/0242-valid-anagram) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/quiyetbrul/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/quiyetbrul/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/quiyetbrul/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/quiyetbrul/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
