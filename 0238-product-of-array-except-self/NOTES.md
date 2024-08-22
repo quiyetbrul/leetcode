@@ -1,5 +1,17 @@
 # ​Step-by-Step Visualization
 
+The `productExceptSelf` function calculates the product of all elements in the input vector nums except for the element at each index. It does this in two passes:
+
+- First Pass (Left Product):
+  - Iterate from left to right, maintaining a running product of all elements to the left of the current index.
+  - Update the results array with this running product.
+
+- Second Pass (Right Product):
+  - Iterate from right to left, maintaining a running product of all elements to the right of the current index.
+  - Multiply the current value in the results array by this running product.
+
+By the end of these two passes, the results array contains the desired products for each index. This approach ensures that the solution runs in O(n) time complexity and uses O(1) extra space (excluding the output array).
+
 ## Initialization
 
 ```output
