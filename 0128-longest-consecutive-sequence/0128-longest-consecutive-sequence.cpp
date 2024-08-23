@@ -1,35 +1,27 @@
 class Solution {
 public:
-	int longestConsecutive(std::vector<int> &nums) {
-		if (nums.size() == 0)
-			return 0;
+    int longestConsecutive(vector<int>& nums) {
+        if(nums.size() <= 1) return nums.size();
 
-		std::unordered_set<int> numsSet;
+        std::unordered_set<int> numsSet(nums.begin(), nums.end());
 
-		for (const auto &i : nums)
-			numsSet.insert(i);
+        int maxLength = 0;
+        int currentNum = 0;
+        int currentLength = 0;
 
-		int maxLength = 0;
-		int currentNum = 0;
-		int currentLength = 0;
+        // since vector was turned into a set,
+        // we can just check (either increasingly/decreasingly)
+        // if the next/previous integer is present
+        for(const auto& i : numsSet){
+            currentNum = i;
+            if (!numsSet.contains(i - 1)) {
+                currentLength = 1;
+                while (numsSet.contains(++currentNum))
+                    currentLength++;
+            }
 
-		for (const auto &i : numsSet) {
-			if (numsSet.find(i - 1) == numsSet.end()) {
-				currentNum = i;
-				currentLength = 1;
-
-				while (numsSet.find(currentNum + 1) != numsSet.end()) {
-					currentNum += 1;
-					currentLength++;
-				}
-			}
-
-			if (currentLength > maxLength) {
-				maxLength = currentLength;
-			}
-			maxLength = std::max(maxLength, currentLength);
-		}
-
-		return maxLength;
-	}
+            maxLength = std::max(currentLength, maxLength);
+        }
+        return maxLength;
+    }
 };
