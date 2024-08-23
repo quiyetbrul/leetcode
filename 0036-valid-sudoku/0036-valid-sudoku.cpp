@@ -13,13 +13,15 @@ bool isValidSudoku(std::vector<std::vector<char>>& board) {
                 continue;
             }
 
-            // NEED TO UNDERSTAND THIS MATH!
-            // REVIEW TUPLE
+            // sub grid
+            // 0 1 2
+            // 3 4 5
+            // 6 7 8
             int subgridIdx = (i / 3) * 3 + j / 3;
             // Check for row, column, and 3x3 repeated values
-            if (rows[i].count(digit) > 0 ||
-                cols[j].count(digit) > 0 ||
-                subgrids[subgridIdx].count(digit) > 0) {
+            if (rows[i].contains(digit) ||
+                cols[j].contains(digit) ||
+                subgrids[subgridIdx].contains(digit)) {
                 return false;
             }
 
