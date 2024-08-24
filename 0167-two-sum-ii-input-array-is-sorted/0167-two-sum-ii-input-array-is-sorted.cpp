@@ -1,43 +1,48 @@
 class Solution {
 public:
-    std::vector<int> twoSum(std::vector<int> array, int targetSum) {
+    vector<int> twoSum(vector<int>& numbers, int target) {
+        int n = numbers.size();
+
+        if(n <= 0) return {};
+
+        // two pointer
         int left = 0;
-        int right = array.size() - 1;
+        int right = n - 1;
         int currentSum = 0;
 
-        while (left < right) {
-            currentSum = array[left] + array[right];
-            if (currentSum == targetSum) {
-                return {left + 1, right + 1};
-            } else if (currentSum < targetSum) {
-                ++left;
-            } else if (currentSum > targetSum) {
-                --right;
-            }
+        // check element at index left and right
+        // if added added together and is equals to target
+        // return left+1, right+1
+        // else check if
+        //   currentSum > target, move right toward left (it's sorted)
+        //   currentSum < target, move left toward right
+        while(left<right){
+            currentSum = numbers[left]+numbers[right];
+            if(currentSum == target)
+                return {left+1,right+1};
+            else if(currentSum>target)
+                right--;
+            else if(currentSum<target)
+                left++;
         }
 
+
+        // brute force
+        // check each element by subtracting element at i from target
+        // and checking whether that target is in the array
+        // optimization: create a copy of numbers in HashSet
+        //               to do contains at O(1)
+
+        // for(int i = 0; i < n; i++){
+        //     int t = target - numbers[i];
+        //     for(int j = 0; j < n; j++){
+        //         if(i==j) continue;
+        //         if(numbers[j] == t){
+        //             return {i+1,j+1};
+        //         }
+        //     }
+        // }
+
         return {};
-
-        // OR
-        /*
-        std::set<int> s;
-
-        for (int i = 0; i < array.size(); i++) {
-            int y = targetSum - array[i];
-            if (s.find(y) != s.end()) {
-                // We found the array that add up to the target.
-                // Return their indices (1-indexed).
-                for (int j = 0; j < array.size(); j++) {
-                    if (array[j] == y && j != i) {
-                        return {j + 1, i + 1};
-                    }
-                }
-            }
-            s.insert(array[i]);
-        }
-
-        // Return an empty vector if no solution is found.
-        return {};
-        */
     }
 };
