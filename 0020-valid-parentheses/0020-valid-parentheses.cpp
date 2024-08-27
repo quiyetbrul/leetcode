@@ -1,21 +1,20 @@
 class Solution {
 public:
-    bool isValid(string s) {
-        std::stack<char> parentheses;
-    
-        for (char c : s) {
-            if (c == '(' || c == '{' || c == '[') {
-                parentheses.push(c);
-            } else if (parentheses.empty() ||
-                       (c == ')' && parentheses.top() != '(') ||
-                       (c == '}' && parentheses.top() != '{') ||
-                       (c == ']' && parentheses.top() != '[')) {
+    bool isValid(string str) {
+        std::stack<char> s;
+
+        for(const auto& c : str){
+            if(c == '(' || c == '{' || c == '[')
+                s.push(c);
+            else if(s.empty() ||
+                   ( c == ')' && s.top() != '(') || 
+                    (c == '}' && s.top() != '{') || 
+                    (c == ']' && s.top() != '[' )
+                    )
                 return false;
-            } else {
-                parentheses.pop();
-            }
+            else s.pop();
         }
 
-        return parentheses.empty();
+        return true;
     }
 };
