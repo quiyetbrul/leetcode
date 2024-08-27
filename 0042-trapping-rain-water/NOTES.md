@@ -7,8 +7,8 @@
 
 ## Traversal
 
-- We traverse the array using the two pointers until they meet.
-– For each position of the pointers:
+- We traverse the array using the two pointers until they meet. Depending on which side's maximum height is smaller, we move the respective pointer and calculate the water trapped at that position.
+- For each position of the pointers
   - Compare the left_max and right_max.
     - If left_max is less than right_max, then the amount of water trapped at the current left position is left_max - height[left].
       - Move the left pointer to the right.
