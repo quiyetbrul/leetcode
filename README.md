@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/quiyetbrul/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/quiyetbrul/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/quiyetbrul/leetcode/tree/master/0242-valid-anagram) |
 ## Heap (Priority Queue)
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/quiyetbrul/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/quiyetbrul/leetcode/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
