@@ -14,7 +14,7 @@ public:
 
 private:
     void backtrack(int n, int open, int close, std::string s,
-                   std::vector<std::string>& result) {
+                std::vector<std::string>& result) {
         if (open == close && open + close == n * 2) {
             result.push_back(s);
             return;
