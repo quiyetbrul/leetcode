@@ -4,47 +4,28 @@ public:
         int sum = 0;
         int size = costs.size();
         int requiredAttendance = size / 2;
-        int cityB = 0;
-
-        int left = 0;
-        int right = size - 1;
 
         std::vector<std::vector<int>> diff;
 
-        while (left < right) {
-            // todo get diff for each 2d array {c2-c1, c1, c2}
-            // {0 is diff, 1 is c1, 2 c2}
-            diff.push_back({costs[left][1] - costs[left][0], costs[left][0],
-                            costs[left][1]});
-            diff.push_back({costs[right][1] - costs[right][0], costs[right][0],
-                            costs[right][1]});
-            left++;
-            right--;
+        for (int i = 0; i < size; ++i) {
+            // Calculate the difference for each cost pair and store it along with the costs
+            diff.push_back({costs[i][1] - costs[i][0], costs[i][0], costs[i][1]});
         }
 
-        // sort base on diff
+        // Sort based on the difference
         std::sort(diff.begin(), diff.end(),
                   [](const std::vector<int>& a, const std::vector<int>& b) {
                       return a[0] < b[0];
                   });
 
-        // iterate over diff
-        // the first n/2 will go to c2, meaning add c2 value to sum
-        // the rest will go to c1, meaning add c1 value to sum
-
-        for (const auto& i : diff) {
-            if (cityB < requiredAttendance) {
-                std::cout << i[2] << std::endl;
-                sum += i[2];
-                cityB++;
-            } else {
-                std::cout << i[1] << std::endl;
-                sum += i[1];
-            }
+        // Iterate over the sorted diff vector
+        // The first half will go to city A, the second half to city B
+        for (int i = 0; i < requiredAttendance; ++i) {
+            sum += diff[i][2]; // Add cost for city B
         }
-
-        int leftDiff = 0;
-        int rightDiff = diff.size() - 1;
+        for (int i = requiredAttendance; i < size; ++i) {
+            sum += diff[i][1]; // Add cost for city A
+        }
 
         return sum;
     }
