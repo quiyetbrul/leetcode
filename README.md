@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/quiyetbrul/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/quiyetbrul/leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/quiyetbrul/leetcode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/quiyetbrul/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/quiyetbrul/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/quiyetbrul/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/quiyetbrul/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/quiyetbrul/leetcode/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/quiyetbrul/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/quiyetbrul/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -291,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/quiyetbrul/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/quiyetbrul/leetcode/tree/master/1005-univalued-binary-tree) |
 ## Depth-First Search
 |  |
@@ -303,5 +306,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/quiyetbrul/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/quiyetbrul/leetcode/tree/master/1005-univalued-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/quiyetbrul/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
