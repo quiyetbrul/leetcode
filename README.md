@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1095-two-city-scheduling](https://github.com/quiyetbrul/leetcode/tree/master/1095-two-city-scheduling) |
 | [1449-print-words-vertically](https://github.com/quiyetbrul/leetcode/tree/master/1449-print-words-vertically) |
 | [2551-apply-operations-to-an-array](https://github.com/quiyetbrul/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2756-buy-two-chocolates](https://github.com/quiyetbrul/leetcode/tree/master/2756-buy-two-chocolates) |
 ## Binary Search
 |  |
 | ------- |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/quiyetbrul/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/quiyetbrul/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1095-two-city-scheduling](https://github.com/quiyetbrul/leetcode/tree/master/1095-two-city-scheduling) |
+| [2756-buy-two-chocolates](https://github.com/quiyetbrul/leetcode/tree/master/2756-buy-two-chocolates) |
 ## String
 |  |
 | ------- |
