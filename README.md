@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/quiyetbrul/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/quiyetbrul/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/quiyetbrul/leetcode/tree/master/0233-number-of-digit-one) |
 | [1013-fibonacci-number](https://github.com/quiyetbrul/leetcode/tree/master/1013-fibonacci-number) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/quiyetbrul/leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/quiyetbrul/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/quiyetbrul/leetcode/tree/master/0233-number-of-digit-one) |
 | [1013-fibonacci-number](https://github.com/quiyetbrul/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -259,4 +261,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/quiyetbrul/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/quiyetbrul/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
