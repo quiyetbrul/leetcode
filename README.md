@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/quiyetbrul/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/quiyetbrul/leetcode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/quiyetbrul/leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/quiyetbrul/leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/quiyetbrul/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/quiyetbrul/leetcode/tree/master/0049-group-anagrams) |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/quiyetbrul/leetcode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/quiyetbrul/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/quiyetbrul/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/quiyetbrul/leetcode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/quiyetbrul/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
