@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/quiyetbrul/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/quiyetbrul/leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/quiyetbrul/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [2886-faulty-keyboard](https://github.com/quiyetbrul/leetcode/tree/master/2886-faulty-keyboard) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -222,5 +223,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2551-apply-operations-to-an-array](https://github.com/quiyetbrul/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2886-faulty-keyboard](https://github.com/quiyetbrul/leetcode/tree/master/2886-faulty-keyboard) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/quiyetbrul/leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 <!---LeetCode Topics End-->
