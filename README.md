@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/quiyetbrul/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/quiyetbrul/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/quiyetbrul/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/quiyetbrul/leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/quiyetbrul/leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/quiyetbrul/leetcode/tree/master/0042-trapping-rain-water) |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/quiyetbrul/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/quiyetbrul/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/quiyetbrul/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/quiyetbrul/leetcode/tree/master/0242-valid-anagram) |
@@ -190,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/quiyetbrul/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/quiyetbrul/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/quiyetbrul/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/quiyetbrul/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/quiyetbrul/leetcode/tree/master/0042-trapping-rain-water) |
