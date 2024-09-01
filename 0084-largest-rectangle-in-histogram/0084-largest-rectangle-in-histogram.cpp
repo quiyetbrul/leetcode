@@ -1,7 +1,3 @@
-#include <vector>
-#include <stack>
-#include <algorithm>
-
 class Solution {
 public:
     int largestRectangleArea(std::vector<int>& heights) {
