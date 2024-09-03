@@ -11,12 +11,10 @@ public:
 
         while (left < n && right >= 0) {
             results[left] *= leftProduct;
-            leftProduct *= nums[left];
-            left++;
+            leftProduct *= nums[left++];
 
             results[right] *= rightProduct;
-            rightProduct *= nums[right];
-            right--;
+            rightProduct *= nums[right--];
         }
 
         return results;
