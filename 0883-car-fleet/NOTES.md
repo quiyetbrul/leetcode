@@ -24,3 +24,5 @@
     - update the time it takes for the car behind it to reach the target
 
 ![CarFleetGraph](CarFleetGraph.png)
+
+- in the graph, [NeetCode](https://www.youtube.com/watch?v=Pr6T-3yB9RM) sorts the pairs by the position in increasing order but iterates through them in reverse order.
