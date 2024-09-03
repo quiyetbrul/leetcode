@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/quiyetbrul/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/quiyetbrul/leetcode/tree/master/0233-number-of-digit-one) |
 | [1013-fibonacci-number](https://github.com/quiyetbrul/leetcode/tree/master/1013-fibonacci-number) |
+| [1635-number-of-good-pairs](https://github.com/quiyetbrul/leetcode/tree/master/1635-number-of-good-pairs) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/quiyetbrul/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/quiyetbrul/leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Dynamic Programming
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0898-transpose-matrix](https://github.com/quiyetbrul/leetcode/tree/master/0898-transpose-matrix) |
 | [1095-two-city-scheduling](https://github.com/quiyetbrul/leetcode/tree/master/1095-two-city-scheduling) |
 | [1449-print-words-vertically](https://github.com/quiyetbrul/leetcode/tree/master/1449-print-words-vertically) |
+| [1635-number-of-good-pairs](https://github.com/quiyetbrul/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2350-find-closest-number-to-zero](https://github.com/quiyetbrul/leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2551-apply-operations-to-an-array](https://github.com/quiyetbrul/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2756-buy-two-chocolates](https://github.com/quiyetbrul/leetcode/tree/master/2756-buy-two-chocolates) |
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0782-jewels-and-stones](https://github.com/quiyetbrul/leetcode/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/quiyetbrul/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/quiyetbrul/leetcode/tree/master/0817-design-hashmap) |
+| [1635-number-of-good-pairs](https://github.com/quiyetbrul/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -214,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/quiyetbrul/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1635-number-of-good-pairs](https://github.com/quiyetbrul/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Quickselect
 |  |
 | ------- |
