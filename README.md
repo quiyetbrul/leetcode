@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/quiyetbrul/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/quiyetbrul/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/quiyetbrul/leetcode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/quiyetbrul/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0233-number-of-digit-one](https://github.com/quiyetbrul/leetcode/tree/master/0233-number-of-digit-one) |
 | [0300-longest-increasing-subsequence](https://github.com/quiyetbrul/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/quiyetbrul/leetcode/tree/master/0392-is-subsequence) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/quiyetbrul/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/quiyetbrul/leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/quiyetbrul/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/quiyetbrul/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/quiyetbrul/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/quiyetbrul/leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/quiyetbrul/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
