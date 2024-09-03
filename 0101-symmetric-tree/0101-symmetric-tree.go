@@ -6,19 +6,18 @@
  *     Right *TreeNode
  * }
  */
-func isSymmetric(n *TreeNode) bool {
-	var isMirror func(lKey, rKey *TreeNode) bool
-	isMirror = func(lKey, rKey *TreeNode) bool {
-		if lKey == nil && rKey == nil {
-			return true
-		}
+func isSymmetric(root *TreeNode) bool {
+    return isMirror(root,root)
+}
 
-		if lKey == nil || rKey == nil {
-			return false
-		}
-
-		return lKey.Val == rKey.Val && isMirror(lKey.Left, rKey.Right) && isMirror(lKey.Right, rKey.Left)
-
-	}
-	return isMirror(n, n)
+func isMirror(left, right *TreeNode) bool {
+    if left == nil && right == nil{
+        return true
+    } 
+    
+    if left == nil || right == nil {
+        return false
+    }
+    
+    return left.Val == right.Val && isMirror(left.Left, right.Right) && isMirror(left.Right, right.Left)
 }
