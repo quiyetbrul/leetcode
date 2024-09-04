@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/quiyetbrul/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/quiyetbrul/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/quiyetbrul/leetcode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/quiyetbrul/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/quiyetbrul/leetcode/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/quiyetbrul/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/quiyetbrul/leetcode/tree/master/0088-merge-sorted-array) |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/quiyetbrul/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/quiyetbrul/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/quiyetbrul/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/quiyetbrul/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/quiyetbrul/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/quiyetbrul/leetcode/tree/master/0242-valid-anagram) |
