@@ -1,10 +1,15 @@
 class Solution {
 public:
     int numJewelsInStones(string jewels, string stones) {
-        int num = 0;
-        for (int i = 0; i < jewels.size(); i++){
-            num += count(stones.begin(), stones.end(), jewels[i]);
+        int result = 0;
+
+        std::unordered_set<char> s(jewels.begin(), jewels.end());
+
+        for (const auto& i : stones) {
+            if (s.contains(i))
+                result++;
         }
-        return num;
+
+        return result;
     }
 };
