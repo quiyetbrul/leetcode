@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/quiyetbrul/leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/quiyetbrul/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/quiyetbrul/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/quiyetbrul/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/quiyetbrul/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/quiyetbrul/leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/quiyetbrul/leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/quiyetbrul/leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/quiyetbrul/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/quiyetbrul/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/quiyetbrul/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/quiyetbrul/leetcode/tree/master/0054-spiral-matrix) |
@@ -237,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/quiyetbrul/leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/quiyetbrul/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/quiyetbrul/leetcode/tree/master/0054-spiral-matrix) |
 | [0777-toeplitz-matrix](https://github.com/quiyetbrul/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/quiyetbrul/leetcode/tree/master/0861-flipping-an-image) |
