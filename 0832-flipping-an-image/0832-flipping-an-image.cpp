@@ -1,10 +1,10 @@
 class Solution {
 public:
-    // on/o1
+    // onm/o1
     vector<vector<int>> flipAndInvertImage(vector<vector<int>>& image) {
         int rows = image.size();
         int cols = image[0].size() - 1;
-        
+
         for(int r = 0; r < rows; r++){
             int left = 0;
             int right = cols;
