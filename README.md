@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/quiyetbrul/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/quiyetbrul/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/quiyetbrul/leetcode/tree/master/0233-number-of-digit-one) |
+| [0412-fizz-buzz](https://github.com/quiyetbrul/leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/quiyetbrul/leetcode/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/quiyetbrul/leetcode/tree/master/1635-number-of-good-pairs) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/quiyetbrul/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/quiyetbrul/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/quiyetbrul/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/quiyetbrul/leetcode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/quiyetbrul/leetcode/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/quiyetbrul/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0782-jewels-and-stones](https://github.com/quiyetbrul/leetcode/tree/master/0782-jewels-and-stones) |
 | [0953-reverse-only-letters](https://github.com/quiyetbrul/leetcode/tree/master/0953-reverse-only-letters) |
@@ -323,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/quiyetbrul/leetcode/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/quiyetbrul/leetcode/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/quiyetbrul/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/quiyetbrul/leetcode/tree/master/0898-transpose-matrix) |
 | [1449-print-words-vertically](https://github.com/quiyetbrul/leetcode/tree/master/1449-print-words-vertically) |
