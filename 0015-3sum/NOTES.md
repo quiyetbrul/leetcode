@@ -1,1 +1,24 @@
-​
+# Thought Process
+
+- two pointer squeeze
+- sort the array
+- iterate through the array
+  - if the current element is greater than 0, break
+    - because a negative number is needed to make the sum 0
+  - if the current element is the same as the previous element, skip
+  - set left pointer to i + 1
+  - set right pointer to the end of the array
+  - create a var target, i played around with negatives
+    - target = -nums[i]
+  - while left < right
+    - if the sum of nums[left] + nums[right] is equal to target
+      - add the triplet to the result
+      - while left < right and nums[left] is the same as the next element
+        - move the left pointer
+      - while left < right and nums[right] is the same as the previous element
+        - move the right pointer
+      - move left and right pointers
+    - if the sum is less than the target
+      - move the left pointer
+    - if the sum is greater than the target
+      - move the right pointer
