@@ -1,22 +1,18 @@
 class Solution {
 public:
-    vector<int> dailyTemperatures(vector<int>& temperatures) {
-        stack<pair<int, int>> stk;
-        int n = temperatures.size();
-        for(int i=n-1; i>=0; i--){
-            int val = 1;
-            int element = temperatures[i];
-            if(stk.empty()) temperatures[i] = 0;
-            else{
-                while(!stk.empty() && stk.top().first <= temperatures[i]){
-                    val+= stk.top().second;
-                    stk.pop();
-                }
-                (stk.empty()) ? temperatures[i] = 0 : temperatures[i] = val;
-            }  
-            stk.push({element, val});
+    std::vector<int> dailyTemperatures(std::vector<int>& temperatures) {
+        std::vector<int> v(temperatures.size(), 0);
+        std::stack<int> s;
+
+        for (int i = 0; i < temperatures.size(); i++) {
+            while (!s.empty() && temperatures[i] > temperatures[s.top()]) {
+                int idx = s.top();
+                s.pop();
+                v[idx] = i - idx;
+            }
+            s.push(i);
         }
 
-        return temperatures;
+        return v;
     }
 };
