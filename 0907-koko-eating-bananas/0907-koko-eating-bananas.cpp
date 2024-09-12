@@ -1,13 +1,11 @@
 class Solution {
 public:
     int minEatingSpeed(vector<int>& piles, int h) {
-        std::sort(piles.begin(), piles.end());
         int min = 1;
-        int max = piles.back();
+        int max = *std::max_element(piles.begin(), piles.end());
 
         while (min < max) {
             int mid = min + (max - min) / 2;
-
             if (kWorks(piles, mid, h))
                 max = mid;
             else
