@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1095-two-city-scheduling](https://github.com/quiyetbrul/leetcode/tree/master/1095-two-city-scheduling) |
 | [1449-print-words-vertically](https://github.com/quiyetbrul/leetcode/tree/master/1449-print-words-vertically) |
 | [1635-number-of-good-pairs](https://github.com/quiyetbrul/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/quiyetbrul/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2350-find-closest-number-to-zero](https://github.com/quiyetbrul/leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2551-apply-operations-to-an-array](https://github.com/quiyetbrul/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2756-buy-two-chocolates](https://github.com/quiyetbrul/leetcode/tree/master/2756-buy-two-chocolates) |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0816-design-hashset](https://github.com/quiyetbrul/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/quiyetbrul/leetcode/tree/master/0817-design-hashmap) |
 | [1635-number-of-good-pairs](https://github.com/quiyetbrul/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/quiyetbrul/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -223,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0953-reverse-only-letters](https://github.com/quiyetbrul/leetcode/tree/master/0953-reverse-only-letters) |
 | [1250-longest-common-subsequence](https://github.com/quiyetbrul/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1449-print-words-vertically](https://github.com/quiyetbrul/leetcode/tree/master/1449-print-words-vertically) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/quiyetbrul/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/quiyetbrul/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2886-faulty-keyboard](https://github.com/quiyetbrul/leetcode/tree/master/2886-faulty-keyboard) |
 ## Heap (Priority Queue)
@@ -240,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/quiyetbrul/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/quiyetbrul/leetcode/tree/master/0383-ransom-note) |
 | [1635-number-of-good-pairs](https://github.com/quiyetbrul/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/quiyetbrul/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Quickselect
 |  |
 | ------- |
@@ -348,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/quiyetbrul/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/quiyetbrul/leetcode/tree/master/0231-power-of-two) |
 | [0861-flipping-an-image](https://github.com/quiyetbrul/leetcode/tree/master/0861-flipping-an-image) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/quiyetbrul/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Tree
 |  |
 | ------- |
