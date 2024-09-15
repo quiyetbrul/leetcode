@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0782-jewels-and-stones](https://github.com/quiyetbrul/leetcode/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/quiyetbrul/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/quiyetbrul/leetcode/tree/master/0817-design-hashmap) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/quiyetbrul/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1635-number-of-good-pairs](https://github.com/quiyetbrul/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/quiyetbrul/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Sorting
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0953-reverse-only-letters](https://github.com/quiyetbrul/leetcode/tree/master/0953-reverse-only-letters) |
 | [1250-longest-common-subsequence](https://github.com/quiyetbrul/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1449-print-words-vertically](https://github.com/quiyetbrul/leetcode/tree/master/1449-print-words-vertically) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/quiyetbrul/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/quiyetbrul/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/quiyetbrul/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2886-faulty-keyboard](https://github.com/quiyetbrul/leetcode/tree/master/2886-faulty-keyboard) |
@@ -266,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/quiyetbrul/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1435-xor-queries-of-a-subarray](https://github.com/quiyetbrul/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/quiyetbrul/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Matrix
 |  |
 | ------- |
@@ -369,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/quiyetbrul/leetcode/tree/master/0231-power-of-two) |
 | [0861-flipping-an-image](https://github.com/quiyetbrul/leetcode/tree/master/0861-flipping-an-image) |
 | [1435-xor-queries-of-a-subarray](https://github.com/quiyetbrul/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/quiyetbrul/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/quiyetbrul/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/quiyetbrul/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Tree
