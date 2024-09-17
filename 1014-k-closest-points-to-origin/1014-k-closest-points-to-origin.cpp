@@ -1,22 +1,24 @@
 class Solution {
 public:
     vector<vector<int>> kClosest(vector<vector<int>>& points, int k) {
-        std::vector<std::vector<int>> results;
+        vector<vector<int>> results;
 
-        // Priority queue to store pairs of distance and points
-        std::priority_queue<std::pair<int, std::vector<int>>> pq;
+        // Max-heap to store pairs of distance and points
+        // Using max-heap so that the largest element is on top, to be replaced
+        // when necessary
+        priority_queue<pair<int, vector<int>>> pq;
 
         for (const auto& point : points) {
             int x = point[0];
             int y = point[1];
-            int dist = x * x + y * y; // Use squared distance to avoid precision issues
-
-            if (pq.size() < k) {
-                pq.push({dist, point});
-            } else if (dist < pq.top().first) {
+            int dist = x * x + y * y;
+            // Push the current point and its distance into the
+            // priority queue
+            pq.push({dist, point});
+            // If the size of the priority queue exceeds k, remove the farthest
+            // point
+            if (pq.size() > k)
                 pq.pop();
-                pq.push({dist, point});
-            }
         }
 
         // Extract the k closest points from the priority queue
