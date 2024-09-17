@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0233-number-of-digit-one](https://github.com/quiyetbrul/leetcode/tree/master/0233-number-of-digit-one) |
 | [0367-valid-perfect-square](https://github.com/quiyetbrul/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/quiyetbrul/leetcode/tree/master/0412-fizz-buzz) |
+| [0539-minimum-time-difference](https://github.com/quiyetbrul/leetcode/tree/master/0539-minimum-time-difference) |
 | [1013-fibonacci-number](https://github.com/quiyetbrul/leetcode/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/quiyetbrul/leetcode/tree/master/1635-number-of-good-pairs) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/quiyetbrul/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/quiyetbrul/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/quiyetbrul/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/quiyetbrul/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/quiyetbrul/leetcode/tree/master/0539-minimum-time-difference) |
 | [0682-baseball-game](https://github.com/quiyetbrul/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/quiyetbrul/leetcode/tree/master/0739-daily-temperatures) |
 | [0777-toeplitz-matrix](https://github.com/quiyetbrul/leetcode/tree/master/0777-toeplitz-matrix) |
@@ -220,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/quiyetbrul/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/quiyetbrul/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/quiyetbrul/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/quiyetbrul/leetcode/tree/master/0539-minimum-time-difference) |
 | [0883-car-fleet](https://github.com/quiyetbrul/leetcode/tree/master/0883-car-fleet) |
 | [1019-squares-of-a-sorted-array](https://github.com/quiyetbrul/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1095-two-city-scheduling](https://github.com/quiyetbrul/leetcode/tree/master/1095-two-city-scheduling) |
@@ -240,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/quiyetbrul/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/quiyetbrul/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/quiyetbrul/leetcode/tree/master/0412-fizz-buzz) |
+| [0539-minimum-time-difference](https://github.com/quiyetbrul/leetcode/tree/master/0539-minimum-time-difference) |
 | [0680-valid-palindrome-ii](https://github.com/quiyetbrul/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0782-jewels-and-stones](https://github.com/quiyetbrul/leetcode/tree/master/0782-jewels-and-stones) |
 | [0953-reverse-only-letters](https://github.com/quiyetbrul/leetcode/tree/master/0953-reverse-only-letters) |
