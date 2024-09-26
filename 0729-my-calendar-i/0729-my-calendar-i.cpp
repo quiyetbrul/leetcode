@@ -3,18 +3,19 @@ public:
     MyCalendar() {}
 
     bool book(int start, int end) {
-        for (const auto& interval : bookings) {
-            if (std::max(interval.first, start) <
-                std::min(interval.second, end)) {
-                return false; // Overlap detected
-            }
+        auto next = intervals.lower_bound(start); // Find next interval
+        if (next != intervals.end() && next->first < end) {
+            return false; // Overlaps with next interval
         }
-        bookings.emplace_back(start, end);
+        if (next != intervals.begin() && prev(next)->second > start) {
+            return false; // Overlaps with previous interval
+        }
+        intervals[start] = end; // No overlap, add interval
         return true;
     }
 
 private:
-    std::vector<std::pair<int, int>> bookings;
+    std::map<int, int> intervals;
 };
 
 /**
