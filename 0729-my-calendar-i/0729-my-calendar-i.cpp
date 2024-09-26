@@ -7,7 +7,7 @@ public:
         if (next != intervals.end() && next->first < end) {
             return false; // Overlaps with next interval
         }
-        if (next != intervals.begin() && prev(next)->second > start) {
+        if (next != intervals.begin() && std::prev(next)->second > start) {
             return false; // Overlaps with previous interval
         }
         intervals[start] = end; // No overlap, add interval
