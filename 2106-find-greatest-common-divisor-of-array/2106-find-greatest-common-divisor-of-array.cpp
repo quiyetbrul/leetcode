@@ -1,18 +1,18 @@
 class Solution {
 public:
     int findGCD(vector<int>& nums) {
-        std::sort(nums.begin(), nums.end());
-        int low = nums[0];
-        int hi = nums[nums.size() - 1];
+        int low = *std::min_element(nums.begin(), nums.end());
+        int hi = *std::max_element(nums.begin(), nums.end());
+        return gcd(low, hi);
+    }
 
-        int result = 1;
-
-        for(int i = 1; i <= hi; i++){
-            if(low % i == 0 && hi % i == 0){
-                result = std::max(result, i);
-            }
+private:
+    int gcd(int a, int b) {
+        while (b != 0) {
+            int temp = b;
+            b = a % b;
+            a = temp;
         }
-
-        return result; 
+        return a;
     }
 };
