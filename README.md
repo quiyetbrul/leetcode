@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1013-fibonacci-number](https://github.com/quiyetbrul/leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/quiyetbrul/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1635-number-of-good-pairs](https://github.com/quiyetbrul/leetcode/tree/master/1635-number-of-good-pairs) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/quiyetbrul/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/quiyetbrul/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/quiyetbrul/leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Dynamic Programming
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1449-print-words-vertically](https://github.com/quiyetbrul/leetcode/tree/master/1449-print-words-vertically) |
 | [1635-number-of-good-pairs](https://github.com/quiyetbrul/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/quiyetbrul/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/quiyetbrul/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2350-find-closest-number-to-zero](https://github.com/quiyetbrul/leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/quiyetbrul/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2551-apply-operations-to-an-array](https://github.com/quiyetbrul/leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -498,4 +500,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0729-my-calendar-i](https://github.com/quiyetbrul/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/quiyetbrul/leetcode/tree/master/0731-my-calendar-ii) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/quiyetbrul/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
