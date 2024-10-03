@@ -5,10 +5,11 @@ public:
         for (const auto& i : target) {
             t[i]++;
         }
-        std::unordered_map<int, int> a;
         for (const auto& i : arr) {
-            a[i]++;
+            t[i]--;
+            if (t[i] <= 0)
+                t.erase(i);
         }
-        return t == a;
+        return t.empty();
     }
 };
