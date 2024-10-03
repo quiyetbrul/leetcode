@@ -6,10 +6,14 @@ public:
             t[i]++;
         }
         for (const auto& i : arr) {
+            if (!t.contains(i)) {
+                return false;
+            }
             t[i]--;
-            if (t[i] <= 0)
+            if (t[i] == 0) {
                 t.erase(i);
+            }
         }
-        return t.empty();
+        return true;
     }
 };
