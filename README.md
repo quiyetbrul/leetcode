@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2551-apply-operations-to-an-array](https://github.com/quiyetbrul/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/quiyetbrul/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2756-buy-two-chocolates](https://github.com/quiyetbrul/leetcode/tree/master/2756-buy-two-chocolates) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/quiyetbrul/leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -431,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1449-print-words-vertically](https://github.com/quiyetbrul/leetcode/tree/master/1449-print-words-vertically) |
 | [2551-apply-operations-to-an-array](https://github.com/quiyetbrul/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2886-faulty-keyboard](https://github.com/quiyetbrul/leetcode/tree/master/2886-faulty-keyboard) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/quiyetbrul/leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/quiyetbrul/leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## String Matching
 |  |
