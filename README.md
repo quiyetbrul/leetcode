@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1095-two-city-scheduling](https://github.com/quiyetbrul/leetcode/tree/master/1095-two-city-scheduling) |
 | [1435-xor-queries-of-a-subarray](https://github.com/quiyetbrul/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1449-print-words-vertically](https://github.com/quiyetbrul/leetcode/tree/master/1449-print-words-vertically) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/quiyetbrul/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/quiyetbrul/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/quiyetbrul/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/quiyetbrul/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0817-design-hashmap](https://github.com/quiyetbrul/leetcode/tree/master/0817-design-hashmap) |
 | [1023-time-based-key-value-store](https://github.com/quiyetbrul/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/quiyetbrul/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/quiyetbrul/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/quiyetbrul/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/quiyetbrul/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2159-two-out-of-three](https://github.com/quiyetbrul/leetcode/tree/master/2159-two-out-of-three) |
@@ -255,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/quiyetbrul/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/quiyetbrul/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1095-two-city-scheduling](https://github.com/quiyetbrul/leetcode/tree/master/1095-two-city-scheduling) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/quiyetbrul/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/quiyetbrul/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2756-buy-two-chocolates](https://github.com/quiyetbrul/leetcode/tree/master/2756-buy-two-chocolates) |
 ## String
