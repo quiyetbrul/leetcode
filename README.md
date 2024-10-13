@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/quiyetbrul/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/quiyetbrul/leetcode/tree/master/0539-minimum-time-difference) |
 | [0682-baseball-game](https://github.com/quiyetbrul/leetcode/tree/master/0682-baseball-game) |
+| [0697-degree-of-an-array](https://github.com/quiyetbrul/leetcode/tree/master/0697-degree-of-an-array) |
 | [0729-my-calendar-i](https://github.com/quiyetbrul/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/quiyetbrul/leetcode/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/quiyetbrul/leetcode/tree/master/0739-daily-temperatures) |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/quiyetbrul/leetcode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/quiyetbrul/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/quiyetbrul/leetcode/tree/master/0567-permutation-in-string) |
+| [0697-degree-of-an-array](https://github.com/quiyetbrul/leetcode/tree/master/0697-degree-of-an-array) |
 | [0782-jewels-and-stones](https://github.com/quiyetbrul/leetcode/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/quiyetbrul/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/quiyetbrul/leetcode/tree/master/0817-design-hashmap) |
