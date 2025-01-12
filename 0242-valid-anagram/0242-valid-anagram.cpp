@@ -1,16 +1,17 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        if (s.length() != t.length()) return false;
+        std::unordered_map<char,int> m;
+        for(const auto& c : s){
+            m[c]++;
+        }
 
-        std::vector<int> count(26, 0);
+        for(const auto& c : t){
+            if(!m.contains(c)) return false;
+            if(m[c] && m[c]>0) m[c]--;
+            if(m[c]==0) m.erase(c);
+        }
 
-        for (const auto& c : s)
-            count[c - 'a']++;
-        for (const auto& c : t)
-            count[c - 'a']--;
-
-        return std::all_of(count.begin(), count.end(),
-                           [](int x) { return x == 0; });
+        return m.empty();
     }
 };
