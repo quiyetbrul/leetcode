@@ -10,7 +10,7 @@ public:
 
         std::vector<std::vector<int>> freq(nums.size()+1);
         for(const auto& [k,v] : m){
-            freq[k].push_back(v);
+            freq[v].push_back(k);
         }
 
         std::vector<int> results;
