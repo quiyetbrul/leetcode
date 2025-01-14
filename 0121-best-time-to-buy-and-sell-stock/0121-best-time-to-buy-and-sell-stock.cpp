@@ -1,12 +1,31 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-        int min = 100001;
-        int max = -1;
+        int l = 0;
+        int r = 1;
+        int max = 0;
 
-        for (int i = 0; i < prices.size(); i++){
-            min = std::min(prices[i], min);
-            max = std::max(prices[i] - min, max);
+        while(l < prices.size()){
+            int lp = prices[l];
+            int rp = prices[r];
+            if(lp > rp){
+                l++;
+                r++;
+                if(r >= prices.size()){
+                    r = prices.size();
+                }
+                continue;
+            }
+            if(lp < rp){
+                max = std::max(max, rp - lp);
+                r++;
+                if(r >= prices.size()){
+                    r = prices.size();
+                }
+            }
+            if(prices[l] > prices[r]){
+                l++;
+            }
         }
 
         return max;
