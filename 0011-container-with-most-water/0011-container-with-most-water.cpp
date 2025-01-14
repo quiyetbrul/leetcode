@@ -1,18 +1,15 @@
 class Solution {
 public:
     int maxArea(vector<int>& height) {
-        int area = 0;
+        int maxArea = 0;
+        int l = 0;
+        int r = height.size() - 1;
 
-        int left = 0;
-        int right = height.size() - 1;
-        int currentArea = 0;
-
-        while(left < right){
-            currentArea = std::min(height[left], height[right]) * (right - left);
-            area = std::max(currentArea, area);
-            height[left] < height[right] ? left++ : right--;
+        while(l <= r){
+            maxArea = std::max(maxArea, (r - l) * std::min(height[l], height[r]));
+            height[l] > height[r] ? r-- : l++;
         }
 
-        return area;
+        return maxArea;
     }
 };
