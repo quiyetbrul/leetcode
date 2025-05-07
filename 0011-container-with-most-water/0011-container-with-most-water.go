@@ -1,32 +1,28 @@
 func maxArea(height []int) int {
-	maxArea := 0
-	left := 0
-	right := len(height) - 1
-	currentArea := 0
+    lo := 0
+    hi := len(height) - 1
 
-	for left < right {
-		currentArea = min(height[left], height[right]) * (right - left)
-		maxArea = max(currentArea, maxArea)
-		if height[left] < height[right] {
-			left++
-		} else {
-			right--
-		}
-	}
+    max := 0
 
-	return maxArea
-}
+    for lo < hi{
 
-func max(a int, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
+        l := hi - lo
+        h := 0
 
-func min(a int, b int) int {
-	if a < b {
-		return a
-	}
-	return b
+        if height[lo] < height[hi]{
+            h = height[lo]
+            lo++
+        }else{
+            h = height[hi]
+            hi--
+        }
+
+        v := l * h
+
+        if v > max{
+            max = v
+        }
+    }
+
+    return max
 }
