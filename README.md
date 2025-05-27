@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/quiyetbrul/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/quiyetbrul/leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/quiyetbrul/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/quiyetbrul/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/quiyetbrul/leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/quiyetbrul/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/quiyetbrul/leetcode/tree/master/0283-move-zeroes) |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/quiyetbrul/leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/quiyetbrul/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/quiyetbrul/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/quiyetbrul/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/quiyetbrul/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/quiyetbrul/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/quiyetbrul/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -531,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/quiyetbrul/leetcode/tree/master/0076-minimum-window-substring) |
+| [0219-contains-duplicate-ii](https://github.com/quiyetbrul/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/quiyetbrul/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/quiyetbrul/leetcode/tree/master/0567-permutation-in-string) |
 ## Segment Tree
