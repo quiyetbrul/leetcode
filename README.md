@@ -252,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2308-divide-array-into-equal-pairs](https://github.com/quiyetbrul/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/quiyetbrul/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/quiyetbrul/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/quiyetbrul/leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1894-merge-strings-alternately](https://github.com/quiyetbrul/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2886-faulty-keyboard](https://github.com/quiyetbrul/leetcode/tree/master/2886-faulty-keyboard) |
 | [3447-clear-digits](https://github.com/quiyetbrul/leetcode/tree/master/3447-clear-digits) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/quiyetbrul/leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -327,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1635-number-of-good-pairs](https://github.com/quiyetbrul/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/quiyetbrul/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/quiyetbrul/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/quiyetbrul/leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Quickselect
 |  |
 | ------- |
