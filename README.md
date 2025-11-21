@@ -253,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1635-number-of-good-pairs](https://github.com/quiyetbrul/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1694-make-sum-divisible-by-p](https://github.com/quiyetbrul/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/quiyetbrul/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/quiyetbrul/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2159-two-out-of-three](https://github.com/quiyetbrul/leetcode/tree/master/2159-two-out-of-three) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/quiyetbrul/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/quiyetbrul/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -315,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/quiyetbrul/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/quiyetbrul/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/quiyetbrul/leetcode/tree/master/1894-merge-strings-alternately) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/quiyetbrul/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2886-faulty-keyboard](https://github.com/quiyetbrul/leetcode/tree/master/2886-faulty-keyboard) |
 | [3447-clear-digits](https://github.com/quiyetbrul/leetcode/tree/master/3447-clear-digits) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/quiyetbrul/leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
@@ -354,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1435-xor-queries-of-a-subarray](https://github.com/quiyetbrul/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/quiyetbrul/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/quiyetbrul/leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/quiyetbrul/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Matrix
 |  |
 | ------- |
@@ -490,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1435-xor-queries-of-a-subarray](https://github.com/quiyetbrul/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/quiyetbrul/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/quiyetbrul/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/quiyetbrul/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2159-two-out-of-three](https://github.com/quiyetbrul/leetcode/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/quiyetbrul/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/quiyetbrul/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
