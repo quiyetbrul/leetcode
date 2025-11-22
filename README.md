@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/quiyetbrul/leetcode/tree/master/0539-minimum-time-difference) |
 | [0682-baseball-game](https://github.com/quiyetbrul/leetcode/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/quiyetbrul/leetcode/tree/master/0697-degree-of-an-array) |
+| [0704-binary-search](https://github.com/quiyetbrul/leetcode/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/quiyetbrul/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0729-my-calendar-i](https://github.com/quiyetbrul/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/quiyetbrul/leetcode/tree/master/0731-my-calendar-ii) |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/quiyetbrul/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/quiyetbrul/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/quiyetbrul/leetcode/tree/master/0367-valid-perfect-square) |
+| [0704-binary-search](https://github.com/quiyetbrul/leetcode/tree/master/0704-binary-search) |
 | [0729-my-calendar-i](https://github.com/quiyetbrul/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/quiyetbrul/leetcode/tree/master/0731-my-calendar-ii) |
 | [0907-koko-eating-bananas](https://github.com/quiyetbrul/leetcode/tree/master/0907-koko-eating-bananas) |
