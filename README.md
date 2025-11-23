@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/quiyetbrul/leetcode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/quiyetbrul/leetcode/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/quiyetbrul/leetcode/tree/master/1250-longest-common-subsequence) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/quiyetbrul/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Recursion
 |  |
 | ------- |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/quiyetbrul/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/quiyetbrul/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1095-two-city-scheduling](https://github.com/quiyetbrul/leetcode/tree/master/1095-two-city-scheduling) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/quiyetbrul/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1435-xor-queries-of-a-subarray](https://github.com/quiyetbrul/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1449-print-words-vertically](https://github.com/quiyetbrul/leetcode/tree/master/1449-print-words-vertically) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/quiyetbrul/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -283,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/quiyetbrul/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/quiyetbrul/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1095-two-city-scheduling](https://github.com/quiyetbrul/leetcode/tree/master/1095-two-city-scheduling) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/quiyetbrul/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/quiyetbrul/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/quiyetbrul/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/quiyetbrul/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -410,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/quiyetbrul/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0759-set-intersection-size-at-least-two](https://github.com/quiyetbrul/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [1095-two-city-scheduling](https://github.com/quiyetbrul/leetcode/tree/master/1095-two-city-scheduling) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/quiyetbrul/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/quiyetbrul/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Stack
 |  |
