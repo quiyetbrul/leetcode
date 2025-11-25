@@ -6,8 +6,8 @@ func maxSumDivThree(nums []int) int {
 	sum := 0
     const INF = int(1e4) + 1
 
-    r1 := []int{INF, INF}
-    r2 := []int{INF, INF}
+    r1 := [2]int{INF, INF}
+    r2 := [2]int{INF, INF}
 
 	for _, x := range nums {
 		sum += x
