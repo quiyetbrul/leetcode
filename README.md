@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/quiyetbrul/leetcode/tree/master/0539-minimum-time-difference) |
 | [1013-fibonacci-number](https://github.com/quiyetbrul/leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/quiyetbrul/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/quiyetbrul/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/quiyetbrul/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/quiyetbrul/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/quiyetbrul/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0782-jewels-and-stones](https://github.com/quiyetbrul/leetcode/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/quiyetbrul/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/quiyetbrul/leetcode/tree/master/0817-design-hashmap) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/quiyetbrul/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/quiyetbrul/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/quiyetbrul/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/quiyetbrul/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
