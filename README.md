@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0898-transpose-matrix](https://github.com/quiyetbrul/leetcode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/quiyetbrul/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/quiyetbrul/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/quiyetbrul/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/quiyetbrul/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1095-two-city-scheduling](https://github.com/quiyetbrul/leetcode/tree/master/1095-two-city-scheduling) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/quiyetbrul/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -496,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/quiyetbrul/leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/quiyetbrul/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/quiyetbrul/leetcode/tree/master/0861-flipping-an-image) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/quiyetbrul/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1435-xor-queries-of-a-subarray](https://github.com/quiyetbrul/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/quiyetbrul/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/quiyetbrul/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
