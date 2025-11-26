@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1013-fibonacci-number](https://github.com/quiyetbrul/leetcode/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/quiyetbrul/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/quiyetbrul/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/quiyetbrul/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Recursion
 |  |
 | ------- |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2274-keep-multiplying-found-values-by-two](https://github.com/quiyetbrul/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/quiyetbrul/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2350-find-closest-number-to-zero](https://github.com/quiyetbrul/leetcode/tree/master/2350-find-closest-number-to-zero) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/quiyetbrul/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/quiyetbrul/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/quiyetbrul/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2551-apply-operations-to-an-array](https://github.com/quiyetbrul/leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -374,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0777-toeplitz-matrix](https://github.com/quiyetbrul/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/quiyetbrul/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/quiyetbrul/leetcode/tree/master/0898-transpose-matrix) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/quiyetbrul/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Union Find
 |  |
 | ------- |
