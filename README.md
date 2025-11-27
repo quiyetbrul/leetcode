@@ -201,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/quiyetbrul/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2756-buy-two-chocolates](https://github.com/quiyetbrul/leetcode/tree/master/2756-buy-two-chocolates) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/quiyetbrul/leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/quiyetbrul/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -268,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2308-divide-array-into-equal-pairs](https://github.com/quiyetbrul/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/quiyetbrul/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/quiyetbrul/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/quiyetbrul/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/quiyetbrul/leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/quiyetbrul/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
@@ -367,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/quiyetbrul/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/quiyetbrul/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/quiyetbrul/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/quiyetbrul/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
