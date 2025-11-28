@@ -526,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/quiyetbrul/leetcode/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/quiyetbrul/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1005-univalued-binary-tree](https://github.com/quiyetbrul/leetcode/tree/master/1005-univalued-binary-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/quiyetbrul/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -537,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/quiyetbrul/leetcode/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/quiyetbrul/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1005-univalued-binary-tree](https://github.com/quiyetbrul/leetcode/tree/master/1005-univalued-binary-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/quiyetbrul/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
 | ------- |
